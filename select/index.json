@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "メランコリー・ベイビー feat. 佐々木詩織",
+  "base_artist": "You & Explosion Band、大野雄二",
+  "createdAt": "2025-12-01T15:52:50.849270Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メランコリー・ベイビー feat. 佐々木詩織",
+      "artist": "You & Explosion Band",
+      "has_synced": false,
+      "path": "select/01_メランコリー・ベイビー_feat._佐々木詩織_You_&_Explosion_Band.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メランコリーベイビー",
+      "artist": "愛しておくれ",
+      "has_synced": false,
+      "path": "select/pl_01_メランコリーベイビー_愛しておくれ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "メランコリーbaby",
+      "artist": "愛しておくれ",
+      "has_synced": false,
+      "path": "select/pl_02_メランコリーbaby_愛しておくれ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "メランコリー・ベイビー feat.佐々木詩織",
+      "artist": "愛しておくれ",
+      "has_synced": false,
+      "path": "select/pl_03_メランコリー・ベイビー_feat.佐々木詩織_愛しておくれ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "メランコリー・ベイビー feat. 佐々木詩織",
+      "artist": "愛しておくれ",
+      "has_synced": false,
+      "path": "select/pl_04_メランコリー・ベイビー_feat._佐々木詩織_愛しておくれ.txt"
+    }
+  ]
+}
